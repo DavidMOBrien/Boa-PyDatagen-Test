@@ -7,7 +7,8 @@ Created on Tue Jul 14 11:19:18 2020
 
 import sklearn
 import math as m
-import os,glob as o,g
+import random as r
+import os as o, glob as g
 
 
 
