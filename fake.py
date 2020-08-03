@@ -9,7 +9,7 @@ import sklearn
 import math as m
 import random as r
 import os as o, glob as g
-from sklearn import sklearn.tree as tree
+from sklearn.tree import RandomTree as tree
 
 
 
